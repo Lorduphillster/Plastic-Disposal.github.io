@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            nav{
+                color: #333;
+            }
+            
+            img{
+                height: 20%;
+                width: 20%;
+            }
+        </style>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Plastic Disposal</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <link href="https://cdn.jsdelivr.net/gh/vaibhav111tandon/vov.css@latest/vov.css" rel="stylesheet" type="text/css">
+
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+       <a href="file:///C:/Users/Shauryaveer/OneDrive/Desktop/Waste%20Management/index.html">Back</a>
+        <br>
+        <br>
+        <h1 class="vov flash slow"><center> Scalding plastic vs scrapyard</center></h1>
+        <img class="vov fade-in-right	"src="https://assets.climatecentral.org/images/made/9_2_14_Andrea_Mexico_trash_1050_788_s_c1_c_c.jpg">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+         <p class="vov zoom-in-up
+ ">
+       As we have previously established, plastic is an integral part of our life which cannot be replaced. In this case, we have an emergent question: how do we dispose of the plastic? Do we incinerate it or let it go to the landfill once recycling is not an option? Which is the lesser of these evils?
+        </p>
+        <br>
+        <p class="vov zoom-in-down	">
+      Incinerating the plastic would take considerable space though lesser than landfills. The residue after burning will have to be disposed so landfills will still be required. Land is becoming more expensive by the day and burning the plastic will reduce 2000lbs of waste down to 600lbs of ash.  However, if you look at the bigger picture, this is not the ideal solution as burning the plastic means consumption of fuel and increased climate change. Also, if the incineration process goes wrong, hazardourous substances might escape into the air which would affect the health of animals, humans and the entire ecosystem.
+        </p>
+<br>
+        <p class="vov slide-in-up
+                  ">Therefore, landfills is the lesser of the 2 evils. However, we cannot rely on the government to choose what is best to do with our waste. We have to cut down on our usage of plastic as no method can dispose of it in a manner that is healthy to the environment and animal life.
+
+</p>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
